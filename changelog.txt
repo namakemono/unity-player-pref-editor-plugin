@@ -1,0 +1,6 @@
+Version 0.4
+- 削除機能の追加
+
+Version 0.3
+- PlayerPrefsの一覧表示，編集，保存機能の追加.
+
